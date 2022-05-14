@@ -1,0 +1,6 @@
+D:\TestJSON\TestJSON\MyJSON\bin\Debug\MyJSON.dll
+D:\TestJSON\TestJSON\MyJSON\bin\Debug\MyJSON.pdb
+D:\TestJSON\TestJSON\MyJSON\obj\Debug\ResolveAssemblyReference.cache
+D:\TestJSON\TestJSON\MyJSON\obj\Debug\MyJSON.dll
+D:\TestJSON\TestJSON\MyJSON\obj\Debug\MyJSON.pdb
+D:\TestJSON\TestJSON\MyJSON\bin\Debug\Newtonsoft.Json.dll

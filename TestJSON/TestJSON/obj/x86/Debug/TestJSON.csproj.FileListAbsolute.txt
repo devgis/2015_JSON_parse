@@ -1,0 +1,9 @@
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\TestJSON.exe
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\TestJSON.pdb
+D:\TestJSON\TestJSON\TestJSON\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TestJSON\TestJSON\TestJSON\obj\x86\Debug\TestJSON.exe
+D:\TestJSON\TestJSON\TestJSON\obj\x86\Debug\TestJSON.pdb
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\MyJSON.dll
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\MyJSON.pdb
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\TestJSON.exe.config
+D:\TestJSON\TestJSON\TestJSON\bin\Debug\Newtonsoft.Json.dll
